@@ -17,6 +17,7 @@ button {
     font-size: 1rem;
     width: 50%;
     transition: all 0.3s;
+    cursor: pointer;
 }
 
 button:active {
